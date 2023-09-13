@@ -21,7 +21,7 @@ connection.connect((err) => {
 
 const start = () => {
   inquirer
-    .prompt({
+  .prompt({
       type: 'list',
       choices: [
         'View all departments',
