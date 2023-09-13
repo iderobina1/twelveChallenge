@@ -229,7 +229,3 @@ const exit = () => {
   });
 };
 
-const quit = () => {
-  console.log('Thank you and goodby!');
-  process.exit();
-};
