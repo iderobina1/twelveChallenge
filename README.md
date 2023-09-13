@@ -13,10 +13,14 @@
 </ol>
 
 ##Asignment
+<br>
+
 Assignment is to build a solution for managing a company's employee database using Node, Inquirer and MySQL to be able to view, add and update employees, departments and roles.
 
 
-</ol>Installation
+##Installation
+<br>
+
 Clone the Github repo. https://github.com/iderobina1/twelveChallenge
 
 Once in the properly cloned folder, run npm install to install the following dependencies:
@@ -32,16 +36,23 @@ Add database Schemas and Seeds files to your MySql Workbench to create initial t
 Provide your MySql Workbench password in the tracker.js file (line 9) to establish your connection.
 
 ##Usage
+<br>
 Enter npm start in your command line to begin the queries.
 
 #Video Usage
+<br>
+
 
 
 ##Contributing
+<br>
+
 Please contact me to contribute.
 <a href = "mailto: iderobina@gmail.com">Send Email</a>
 
 
 ##Authors
+<br>
+
 Inigo de Robina
 
