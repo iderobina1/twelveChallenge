@@ -39,9 +39,9 @@ Provide your MySql Workbench password in the tracker.js file (line 9) to establi
 <br>
 Enter npm start in your command line to begin the queries.
 
-#Video Usage
+#Video 
 <br>
-
+https://drive.google.com/file/d/1up_XF5fOt54ExcMTgXZNuop4YImD2D5B/view
 
 
 ##Contributing
