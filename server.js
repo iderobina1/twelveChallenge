@@ -1,12 +1,14 @@
 const inquirer = require('inquirer');
 const mysql = require('mysql');
+const PORT = process.env.PORT || 3306;
+
 
 const connection = mysql.createConnection({
   host: 'localhost',
-  port: 8080, // Correct the port number to your MySQL server's port
+  port: 3306,
   user: 'root',
   password: '',
-  database: 'employee_db',
+  database: 'employee_info_db',
 });
 
 connection.connect((err) => {
