@@ -1,18 +1,22 @@
 ##Table of Contents
-Description
-Installation
-Usage
-Contributing
-Authors
-Screenshots
-Tests
-Contact Me
-License
-Description
+<ol>
+<li> Description</li>
+<li> Installation</li>
+<li> Usage</li>
+<li> Contributing</li>
+<li> Authors </li>
+<li> Screenshots</li>
+<li>Tests</li>
+<li> Contact Me</li>
+<li> License </li>
+<li> Description</li>
+</ol>
+
+##Asignment
 Assignment is to build a solution for managing a company's employee database using Node, Inquirer and MySQL to be able to view, add and update employees, departments and roles.
 
 
-Installation
+</ol>Installation
 Clone the Github repo. https://github.com/iderobina1/twelveChallenge
 
 Once in the properly cloned folder, run npm install to install the following dependencies:
